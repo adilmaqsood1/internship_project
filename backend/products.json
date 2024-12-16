@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Running Shoes",
+      "description": "Comfortable running shoes for men.",
+      "category": "shoes",
+      "price": 120,
+      "tags": ["shoes", "running", "men"]
+    },
+    {
+      "id": 2,
+      "title": "Adidas Sneakers",
+      "description": "Stylish sneakers for casual wear.",
+      "category": "shoes",
+      "price": 100,
+      "tags": ["shoes", "sneakers"]
+    },
+    {
+      "id": 3,
+      "title": "Samsung 55-inch TV",
+      "description": "High-quality LED TV with smart features.",
+      "category": "electronics",
+      "price": 600,
+      "tags": ["electronics", "tv", "samsung"]
+    },
+    {
+      "id": 4,
+      "title": "Sony Headphones",
+      "description": "Noise-cancelling wireless headphones.",
+      "category": "electronics",
+      "price": 50,
+      "tags": ["electronics", "headphones", "sony"]
+    }
+  ]
+}
